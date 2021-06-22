@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T09:14:21.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="To_o5rUt2yLYLTd48I2q" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:14:41.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="DX7xhYwmiywUi0MBJ9Az" version="14.8.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,8 +276,14 @@
         <mxCell id="nRg2Jz34SIZ-nacFX3lx-14" value="Загрузка документа &quot;Документ о прохождении обучения&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="7sy-wHbYIdsX4-8piPpg-1">
           <mxGeometry x="1100" y="610" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5MmIASrymnTv7L6Ay5e2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7sy-wHbYIdsX4-8piPpg-1" source="nRg2Jz34SIZ-nacFX3lx-15" target="5MmIASrymnTv7L6Ay5e2-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nRg2Jz34SIZ-nacFX3lx-15" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="7sy-wHbYIdsX4-8piPpg-1">
           <mxGeometry x="1100" y="700" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MmIASrymnTv7L6Ay5e2-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="7sy-wHbYIdsX4-8piPpg-1">
+          <mxGeometry x="1120" y="790" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
