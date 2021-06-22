@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T08:30:02.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="d8E8ZAH3-3EKqL1jpIsW" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:33:25.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="kPvNio_DbslGlBb4y3hy" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,70 +127,66 @@
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry x="0.0154" y="20" relative="1" as="geometry">
-            <mxPoint x="1080" y="500" as="targetPoint" />
+            <mxPoint x="1090" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1040" y="500" />
+              <mxPoint x="1050" y="510" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-59" value="Присвоение квалификации в &lt;br&gt;рамках имеющихся категорий" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry x="0.082" y="20" relative="1" as="geometry">
-            <mxPoint x="1080" y="440" as="targetPoint" />
+            <mxPoint x="1090" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="440" />
-              <mxPoint x="1010" y="440" />
+              <mxPoint x="1020" y="450" />
+              <mxPoint x="1020" y="450" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry x="0.0154" y="20" relative="1" as="geometry">
-            <mxPoint x="1080" y="560" as="targetPoint" />
-            <mxPoint x="877.4999999999995" y="560" as="sourcePoint" />
+            <mxPoint x="1090" y="570" as="targetPoint" />
+            <mxPoint x="887.4999999999995" y="570" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1040" y="560" />
+              <mxPoint x="910" y="570" />
+              <mxPoint x="910" y="570" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-53" value="Выбор причины" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="772.5" y="430" width="105" height="360" as="geometry" />
+          <mxGeometry x="786.25" y="440" width="77.5" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" value="Хищение или утрата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.952;exitY=0.639;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="660" as="targetPoint" />
-            <mxPoint x="877.4999999999995" y="660.06" as="sourcePoint" />
+            <mxPoint x="1090" y="670" as="targetPoint" />
+            <mxPoint x="887.4999999999995" y="670.06" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" value="Изменение фамилии, &lt;br&gt;имени или отчества" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="730" as="targetPoint" />
+            <mxPoint x="887.4999999999995" y="730" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1040" y="660.06" />
+              <mxPoint x="930" y="730" />
+              <mxPoint x="930" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.012;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="720" as="targetPoint" />
-            <mxPoint x="877.4999999999995" y="720" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1040" y="720" />
-            </Array>
+            <mxPoint x="1090" y="790" as="targetPoint" />
+            <mxPoint x="887.4999999999995" y="790" as="sourcePoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="780" as="targetPoint" />
-            <mxPoint x="877.4999999999995" y="780" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1040" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок действия/&lt;br&gt;&amp;nbsp;Удостоверение пришло в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок действия/&lt;br&gt;&amp;nbsp;Удостоверение пришло в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry x="0.0123" y="20" relative="1" as="geometry">
-            <mxPoint x="1080" y="610" as="targetPoint" />
-            <mxPoint x="877.4999999999995" y="610.0599999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1040" y="610.06" />
-            </Array>
+            <mxPoint x="1090" y="620" as="targetPoint" />
+            <mxPoint x="887.4999999999995" y="620.0599999999998" as="sourcePoint" />
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
