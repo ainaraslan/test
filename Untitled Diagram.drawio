@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T08:20:24.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="xnfdr7ui-xXbjU-lL3_8" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:30:02.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="d8E8ZAH3-3EKqL1jpIsW" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,80 @@
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-32" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="860" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-49" target="LP5ZY8irFqe8Ylj5ovww-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-49" value="В связи с чем производится замена удостоверения?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="280" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+          <mxGeometry x="0.0154" y="20" relative="1" as="geometry">
+            <mxPoint x="1080" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="500" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-59" value="Присвоение квалификации в &lt;br&gt;рамках имеющихся категорий" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+          <mxGeometry x="0.082" y="20" relative="1" as="geometry">
+            <mxPoint x="1080" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="440" />
+              <mxPoint x="1010" y="440" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="0.0154" y="20" relative="1" as="geometry">
+            <mxPoint x="1080" y="560" as="targetPoint" />
+            <mxPoint x="877.4999999999995" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-53" value="Выбор причины" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="772.5" y="430" width="105" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="660" as="targetPoint" />
+            <mxPoint x="877.4999999999995" y="660.06" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="660.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="720" as="targetPoint" />
+            <mxPoint x="877.4999999999995" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="780" as="targetPoint" />
+            <mxPoint x="877.4999999999995" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок действия/&lt;br&gt;&amp;nbsp;Удостоверение пришло в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="0.0123" y="20" relative="1" as="geometry">
+            <mxPoint x="1080" y="610" as="targetPoint" />
+            <mxPoint x="877.4999999999995" y="610.0599999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="610.06" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
