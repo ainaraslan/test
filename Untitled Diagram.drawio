@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T07:51:44.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="tqgj2M6HDQhGa-IirSY9" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T07:52:50.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="WS2v1zIOzMBOp4zJbBp-" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -104,8 +104,23 @@
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-26" value="Загрузка документа &quot;Водительское удостоверение иностранного гражданина&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="590" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-29" target="LP5ZY8irFqe8Ylj5ovww-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-29" value="Выбор категорий" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="710" width="110" height="40" as="geometry" />
+          <mxGeometry x="395" y="690" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-31" target="LP5ZY8irFqe8Ylj5ovww-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-31" value="Загрузка документа &quot;Документ о прохождении обучения&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="750" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-32" target="LP5ZY8irFqe8Ylj5ovww-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-32" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="840" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
