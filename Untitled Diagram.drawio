@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T08:48:04.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ULcxOoO5PepqOkQLPTc1" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:48:21.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="PojiM44XmxhVG3mfriaJ" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,10 +127,9 @@
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение &lt;br&gt;дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
           <mxGeometry x="0.0526" relative="1" as="geometry">
-            <mxPoint x="960" y="430" as="targetPoint" />
+            <mxPoint x="940" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="430" />
-              <mxPoint x="960" y="430" />
+              <mxPoint x="940" y="430" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
