@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T09:14:55.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="F2edEpLont6rbm86vfcF" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:16:34.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="hoViAdyNZ_5mUxuSm62U" version="14.8.0" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,6 +358,17 @@
         </mxCell>
         <mxCell id="n7QH0T3OYc7trggTqGyH-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="01sahJC-VMEziEyesvi8-1">
           <mxGeometry x="330" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_fNW3Hu8iMfd9qejRIfx" name="Истек срок действия/ Удостоверение пришло в негодность">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WcWkTmYkEJZWo569n9i0-0" />
+        <mxCell id="WcWkTmYkEJZWo569n9i0-1" parent="WcWkTmYkEJZWo569n9i0-0" />
+        <mxCell id="gIG8Yw8IZxRdZI8oUY0j-0" value="Загрузка документа &quot;Удостоверение тракториста-машиниста (тракториста) или другое удостоверение на право управления самоходными машинами&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WcWkTmYkEJZWo569n9i0-1">
+          <mxGeometry x="250" y="40" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
