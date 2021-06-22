@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T09:33:52.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="vT_Ur-y-xbDRyc4ThGnv" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:35:48.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="xw9fCFeNdknce0t3NVIo" version="14.8.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,6 +244,9 @@
         <mxCell id="3Rrlsl-Phg1nYhmITeOv-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="kvLU15jJftnli9S3MVWt-1">
           <mxGeometry x="140" y="540" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5G47etuwDU-IMcN8hMUH-0" value="Назад&lt;br&gt;&lt;a href=&quot;data:page/id,C5RBs43oDa-KdzZeNtuy&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="kvLU15jJftnli9S3MVWt-1">
+          <mxGeometry x="410" y="70" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -317,6 +320,9 @@
         </mxCell>
         <mxCell id="5MmIASrymnTv7L6Ay5e2-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="7sy-wHbYIdsX4-8piPpg-1">
           <mxGeometry x="1120" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IPGn8_YW0T4CnEtrseLv-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="7sy-wHbYIdsX4-8piPpg-1">
+          <mxGeometry x="1380" y="30" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -392,6 +398,9 @@
         <mxCell id="n7QH0T3OYc7trggTqGyH-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="01sahJC-VMEziEyesvi8-1">
           <mxGeometry x="330" y="720" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="wxaMJCJOIKmB-B3JlGYO-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="01sahJC-VMEziEyesvi8-1">
+          <mxGeometry x="580" y="30" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -421,6 +430,9 @@
         <mxCell id="ySqooHkldYJak4M2rDcs-0" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WcWkTmYkEJZWo569n9i0-1">
           <mxGeometry x="305" y="430" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JX0QKpGKiTCP4Oi9IEy4-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="WcWkTmYkEJZWo569n9i0-1">
+          <mxGeometry x="570" y="40" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -443,6 +455,9 @@
         </mxCell>
         <mxCell id="P5LRAfkSd3SHMZ6p3-Z--2" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="4t7yBIUdm-qZhpUnvACn-1">
           <mxGeometry x="310" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQGIgEwgXKI0h4MSHLVj-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="4t7yBIUdm-qZhpUnvACn-1">
+          <mxGeometry x="560" y="40" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -485,6 +500,9 @@
         <mxCell id="SzsOj1wYzGgAxWdRGMjX-6" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="EgmlDfBzccvKQ4yyxgit-1">
           <mxGeometry x="300" y="720" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KsIVTL_qXyrtLOy6pnWs-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="EgmlDfBzccvKQ4yyxgit-1">
+          <mxGeometry x="550" y="50" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -525,6 +543,9 @@
         </mxCell>
         <mxCell id="rR4gcoxB8xDOIjXrfCgb-4" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="CO8g7ovDMniT--VOmjhs-1">
           <mxGeometry x="340" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TgIopkRyc-tTQ99mdfps-0" value="Назад&lt;br&gt;&lt;a href=&quot;null&quot;&gt;data:page/id,C5RBs43oDa-KdzZeNtuy&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;" vertex="1" parent="CO8g7ovDMniT--VOmjhs-1">
+          <mxGeometry x="560" y="40" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
