@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T09:35:53.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="fsY3LhIURok2GtuqdNXu" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-22T11:39:04.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="dkJF8qIOG88Yu6LXZGOe" version="14.8.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -213,7 +213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hclW55LtqkLdawyu5qr-" name="Присвоение квалификации в рамках имеющихся категорий">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kvLU15jJftnli9S3MVWt-0" />
         <mxCell id="kvLU15jJftnli9S3MVWt-1" parent="kvLU15jJftnli9S3MVWt-0" />
@@ -221,13 +221,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VKUfGbv2Q31R_BO1hPON-0" value="Загрузка документа &quot;Документ о присвоении квалификации&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="kvLU15jJftnli9S3MVWt-1">
-          <mxGeometry x="120" y="90" width="160" height="50" as="geometry" />
+          <mxGeometry x="120" y="70" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B0eFu-9J3ncslHHkNvlE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kvLU15jJftnli9S3MVWt-1" source="VKUfGbv2Q31R_BO1hPON-1" target="VKUfGbv2Q31R_BO1hPON-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VKUfGbv2Q31R_BO1hPON-1" value="Загрузка документа &quot;Удостоверение тракториста-машиниста (тракториста) или другое удостоверение на право управления самоходными машинами&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%26quot%3B%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%B8%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%26quot%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D0%3BstrokeWidth%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221130%22%20y%3D%22420%22%20width%3D%22160%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%26quot%3B%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%B8%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%26quot%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D0%3BstrokeWidth%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221130%22%20y%3D%22420%22%20width%3D%22160%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="kvLU15jJftnli9S3MVWt-1">
-          <mxGeometry x="120" y="170" width="160" height="90" as="geometry" />
+          <mxGeometry x="120" y="160" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B0eFu-9J3ncslHHkNvlE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kvLU15jJftnli9S3MVWt-1" source="VKUfGbv2Q31R_BO1hPON-2" target="VKUfGbv2Q31R_BO1hPON-3">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7OWJ0SJCPcD8ZJ4T7M_F" name="Присвоение дополнительной квалификации">
-    <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="211" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7sy-wHbYIdsX4-8piPpg-0" />
         <mxCell id="7sy-wHbYIdsX4-8piPpg-1" parent="7sy-wHbYIdsX4-8piPpg-0" />
@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f9fnHv35TqbvRMG_lHDl" name="Открытие дополнительной категории">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="01sahJC-VMEziEyesvi8-0" />
         <mxCell id="01sahJC-VMEziEyesvi8-1" parent="01sahJC-VMEziEyesvi8-0" />
@@ -405,7 +405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_fNW3Hu8iMfd9qejRIfx" name="Истек срок действия/ Удостоверение пришло в негодность">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WcWkTmYkEJZWo569n9i0-0" />
         <mxCell id="WcWkTmYkEJZWo569n9i0-1" parent="WcWkTmYkEJZWo569n9i0-0" />
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ujijrNR-eyZcJNk5l9MC" name="Хищение или утрата">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4t7yBIUdm-qZhpUnvACn-0" />
         <mxCell id="4t7yBIUdm-qZhpUnvACn-1" parent="4t7yBIUdm-qZhpUnvACn-0" />
@@ -463,7 +463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TRyKmcHV2fRLQj_V3c0l" name="Изменение фамилии, имени или отчества">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EgmlDfBzccvKQ4yyxgit-0" />
         <mxCell id="EgmlDfBzccvKQ4yyxgit-1" parent="EgmlDfBzccvKQ4yyxgit-0" />
@@ -507,7 +507,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AYc0DusHu32xOqGmyLVo" name="Замена национального удостоверения">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CO8g7ovDMniT--VOmjhs-0" />
         <mxCell id="CO8g7ovDMniT--VOmjhs-1" parent="CO8g7ovDMniT--VOmjhs-0" />
