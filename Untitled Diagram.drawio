@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T09:25:11.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="o8t-tRViinPMiE0Q7Uaa" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:26:40.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7gtOBBVEV5ySH5VreLQA" version="14.8.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -127,20 +127,20 @@
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение &lt;br&gt;дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="410" as="targetPoint" />
-            <mxPoint x="890" y="320" as="sourcePoint" />
+            <mxPoint x="910" y="480" as="targetPoint" />
+            <mxPoint x="910" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-59" value="Присвоение &lt;br&gt;квалификации &lt;br&gt;в рамках &lt;br&gt;имеющихся &lt;br&gt;категорий" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="420" as="targetPoint" />
+            <mxPoint x="780" y="480" as="targetPoint" />
             <mxPoint x="780" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие &lt;br&gt;дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1034" y="430" as="targetPoint" />
-            <mxPoint x="1034" y="320" as="sourcePoint" />
+            <mxPoint x="1044" y="480" as="targetPoint" />
+            <mxPoint x="1044" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-53" value="Выбор причины" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -148,27 +148,27 @@
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" value="Хищение &lt;br&gt;или утрата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="420" as="targetPoint" />
-            <mxPoint x="1340" y="310" as="sourcePoint" />
+            <mxPoint x="1320" y="480" as="targetPoint" />
+            <mxPoint x="1320" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" value="Изменение &lt;br&gt;фамилии, &lt;br&gt;имени или &lt;br&gt;отчества" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.0909" relative="1" as="geometry">
-            <mxPoint x="1470" y="410" as="targetPoint" />
-            <mxPoint x="1470" y="310" as="sourcePoint" />
+            <mxPoint x="1450" y="480" as="targetPoint" />
+            <mxPoint x="1450" y="310" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" value="Замена &lt;br&gt;национального &lt;br&gt;удостоверения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.0909" relative="1" as="geometry">
-            <mxPoint x="1570" y="400" as="targetPoint" />
-            <mxPoint x="1570" y="310" as="sourcePoint" />
+            <mxPoint x="1560" y="480" as="targetPoint" />
+            <mxPoint x="1560" y="310" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок &lt;br&gt;действия/&lt;br&gt;Удостоверение &lt;br&gt;пришло &lt;br&gt;в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.0769" relative="1" as="geometry">
-            <mxPoint x="1164.5" y="420" as="targetPoint" />
+            <mxPoint x="1165" y="480" as="targetPoint" />
             <mxPoint x="1164.5" y="310" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1164.5" y="420" />
