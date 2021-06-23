@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T11:39:04.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="dkJF8qIOG88Yu6LXZGOe" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-23T11:18:05.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QaxajndltyQjamWcygkK" version="14.8.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,22 +25,22 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Цель обращения" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="130" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-7" value="Первичное получение &lt;br&gt;удостоверения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-5">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-7" value="Первичное получение &lt;br&gt;удостоверения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-8" value="Получение удостоверения после &lt;br&gt;истечения срока лишения права &lt;br&gt;управления транспортными средствами" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-6">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-8" value="Получение удостоверения после &lt;br&gt;истечения срока лишения права &lt;br&gt;управления транспортными средствами" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-10" value="Получение удостоверения &lt;br&gt;взамен временного" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-9">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-10" value="Получение удостоверения &lt;br&gt;взамен временного" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-3" target="LP5ZY8irFqe8Ylj5ovww-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-3" value="Вы обращаетесь за выдачей удостоверения первично?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-3" value="Вы обращаетесь за выдачей удостоверения первично?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="210" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-12" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-5" target="LP5ZY8irFqe8Ylj5ovww-11">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-12" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-5" target="LP5ZY8irFqe8Ylj5ovww-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-47" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-5" target="LP5ZY8irFqe8Ylj5ovww-29">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-47" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-5" target="LP5ZY8irFqe8Ylj5ovww-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="410" />
@@ -48,125 +48,125 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-5" value="У вас имеется водительское удостоверение?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-5" value="У вас имеется водительское удостоверение?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="370" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-6" target="LP5ZY8irFqe8Ylj5ovww-15">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-6" target="LP5ZY8irFqe8Ylj5ovww-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-6" value="Загрузка документа &quot;Индивидуальная карточка или другой документ, подтверждающий выдачу удостоверения на право управления самоходными машинами&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-6" value="Загрузка документа &quot;Индивидуальная карточка или другой документ, подтверждающий выдачу удостоверения на право управления самоходными машинами&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="400" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-9" target="LP5ZY8irFqe8Ylj5ovww-31">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-9" target="LP5ZY8irFqe8Ylj5ovww-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-9" value="Загрузка документа &quot;Временное удостоверение тракториста-машиниста&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-9" value="Загрузка документа &quot;Временное удостоверение тракториста-машиниста&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="390" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-25" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-11" target="LP5ZY8irFqe8Ylj5ovww-24">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-25" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-11" target="LP5ZY8irFqe8Ylj5ovww-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-28" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-11" target="LP5ZY8irFqe8Ylj5ovww-26">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-28" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-11" target="LP5ZY8irFqe8Ylj5ovww-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-11" value="Вы гражданин РФ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-11" value="Вы гражданин РФ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="500" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-15" target="LP5ZY8irFqe8Ylj5ovww-16">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-15" target="LP5ZY8irFqe8Ylj5ovww-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-15" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-15" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="560" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-16" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-16" value="Выбор подразделения и завершение услуги" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-24" target="LP5ZY8irFqe8Ylj5ovww-29">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-24" target="LP5ZY8irFqe8Ylj5ovww-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-24" value="Загрузка документа &quot;Водительское удостоверение&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-24" value="Загрузка документа &quot;Водительское удостоверение&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="630" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-26" target="LP5ZY8irFqe8Ylj5ovww-29">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-26" target="LP5ZY8irFqe8Ylj5ovww-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="95" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-26" value="Загрузка документа &quot;Водительское удостоверение иностранного гражданина&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-26" value="Загрузка документа &quot;Водительское удостоверение иностранного гражданина&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="590" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-29" target="LP5ZY8irFqe8Ylj5ovww-31">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-29" target="LP5ZY8irFqe8Ylj5ovww-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-29" value="Выбор категорий" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-29" value="Выбор категорий" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="195" y="710" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-31" target="LP5ZY8irFqe8Ylj5ovww-32">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-31" target="LP5ZY8irFqe8Ylj5ovww-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-31" value="Загрузка документа &quot;Документ о прохождении обучения&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-31" value="Загрузка документа &quot;Документ о прохождении обучения&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="770" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-32" target="LP5ZY8irFqe8Ylj5ovww-16">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-32" target="LP5ZY8irFqe8Ylj5ovww-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-32" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-32" value="Загрузка документа &quot;Медицинская справка&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="860" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-49" target="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-49" target="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-49" value="В связи с чем производится замена удостоверения?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-49" value="В связи с чем производится замена удостоверения?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1100" y="120" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение &lt;br&gt;дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.19;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-56" value="Присвоение &lt;br&gt;дополнительной &lt;br&gt;квалификации" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.19;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="480" as="targetPoint" />
             <mxPoint x="910" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-59" value="Присвоение &lt;br&gt;квалификации &lt;br&gt;в рамках &lt;br&gt;имеющихся &lt;br&gt;категорий" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.032;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-59" value="Присвоение &lt;br&gt;квалификации &lt;br&gt;в рамках &lt;br&gt;имеющихся &lt;br&gt;категорий" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.032;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="480" as="targetPoint" />
             <mxPoint x="780" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие &lt;br&gt;дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.353;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-60" value="Открытие &lt;br&gt;дополнительной &lt;br&gt;категории" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.353;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1044" y="480" as="targetPoint" />
             <mxPoint x="1044" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-53" value="Выбор причины" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-53" value="Выбор причины" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="755" y="260" width="820" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" value="Хищение &lt;br&gt;или утрата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.689;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-61" value="Хищение &lt;br&gt;или утрата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.689;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1320" y="480" as="targetPoint" />
             <mxPoint x="1320" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" value="Изменение &lt;br&gt;фамилии, &lt;br&gt;имени или &lt;br&gt;отчества" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-62" value="Изменение &lt;br&gt;фамилии, &lt;br&gt;имени или &lt;br&gt;отчества" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry x="-0.0909" relative="1" as="geometry">
             <mxPoint x="1450" y="480" as="targetPoint" />
             <mxPoint x="1450" y="310" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" value="Замена &lt;br&gt;национального &lt;br&gt;удостоверения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.982;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-63" value="Замена &lt;br&gt;национального &lt;br&gt;удостоверения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.982;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry x="-0.0909" relative="1" as="geometry">
             <mxPoint x="1560" y="480" as="targetPoint" />
             <mxPoint x="1560" y="310" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок &lt;br&gt;действия/&lt;br&gt;Удостоверение &lt;br&gt;пришло &lt;br&gt;в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53">
+        <mxCell id="LP5ZY8irFqe8Ylj5ovww-64" value="Истек срок &lt;br&gt;действия/&lt;br&gt;Удостоверение &lt;br&gt;пришло &lt;br&gt;в негодность" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LP5ZY8irFqe8Ylj5ovww-53" edge="1">
           <mxGeometry x="-0.0769" relative="1" as="geometry">
             <mxPoint x="1165" y="480" as="targetPoint" />
             <mxPoint x="1164.5" y="310" as="sourcePoint" />
@@ -175,37 +175,37 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;a href=&quot;data:page/id,hclW55LtqkLdawyu5qr-&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,hclW55LtqkLdawyu5qr-" id="HJuC5P9A7Q_enxPkEr70-1">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="740" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,7OWJ0SJCPcD8ZJ4T7M_F" id="HJuC5P9A7Q_enxPkEr70-2">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="870" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,f9fnHv35TqbvRMG_lHDl" id="NhBZ_Un9BWM0T-MwfDjz-0">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="1000" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,_fNW3Hu8iMfd9qejRIfx" id="NhBZ_Un9BWM0T-MwfDjz-1">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="1125" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,ujijrNR-eyZcJNk5l9MC" id="NhBZ_Un9BWM0T-MwfDjz-2">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="1280" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,TRyKmcHV2fRLQj_V3c0l" id="NhBZ_Un9BWM0T-MwfDjz-3">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="1410" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;null&quot;&gt;data:page/id,hclW55LtqkLdawyu5qr-&lt;/a&gt;" link="data:page/id,AYc0DusHu32xOqGmyLVo" id="NhBZ_Un9BWM0T-MwfDjz-4">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;horizontal=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="1520" y="480" width="80" height="270" as="geometry" />
           </mxCell>
         </UserObject>
