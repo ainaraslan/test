@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T11:35:18.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="W9RbUYTixtHuzv-UbU1E" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T11:41:17.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="w6IxU8DGiApDSgYEYdW_" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Старт" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Представитель" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -21,13 +21,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Кто обращается за услугой?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="130" width="100" height="80" as="geometry" />
+          <mxGeometry x="50" y="240" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="TTNkWK5f1cw7pHRP-8Jn-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Подтверждение данных" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -40,33 +40,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="250" width="100" height="80" as="geometry" />
+          <mxGeometry x="50" y="360" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-3" value="Раздел земельного&lt;br&gt;усатка" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-0" target="TTNkWK5f1cw7pHRP-8Jn-2">
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-3" value="Раздел &lt;br&gt;земельного&lt;br&gt;участка" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-0" target="TTNkWK5f1cw7pHRP-8Jn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-4" value="Объединение&amp;nbsp;&lt;br&gt;земельных&amp;nbsp;&lt;br&gt;участков" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-0">
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-4" value="Объединение&amp;nbsp;&lt;br&gt;земельных&amp;nbsp;&lt;br&gt;участков" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-0" target="TTNkWK5f1cw7pHRP-8Jn-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="280" />
-            </Array>
+            <mxPoint x="510" y="410" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-0" value="В результате чего образуется земельный участок?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-6" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-2" target="TTNkWK5f1cw7pHRP-8Jn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-25" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-2" target="TTNkWK5f1cw7pHRP-8Jn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-2" value="Право на земельный участок зарегистрировано в ЕГРН?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-8" value="Один" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-5" target="TTNkWK5f1cw7pHRP-8Jn-7">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-5" value="Сколько землепользователей у исходного земельного участка?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="910" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-11" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-7" target="TTNkWK5f1cw7pHRP-8Jn-9">
           <mxGeometry relative="1" as="geometry" />
@@ -84,47 +85,75 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-7" value="Исходный земельный участок находится в залоге?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="1110" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-9" target="TTNkWK5f1cw7pHRP-8Jn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-9" value="Ввод данных&lt;br&gt;&quot;Сведения о разделяемом земельном участке&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="135" width="120" height="70" as="geometry" />
+          <mxGeometry x="1310" y="245" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-10" target="TTNkWK5f1cw7pHRP-8Jn-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-10" value="&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Обязательное поле:&lt;br&gt;&lt;b&gt;Кадастровый номер земельного участка&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="250" width="120" height="100" as="geometry" />
+          <mxGeometry x="1310" y="360" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-13" target="TTNkWK5f1cw7pHRP-8Jn-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1370" y="550" as="targetPoint" />
+            <mxPoint x="1370" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-13" value="Загрузка документа&lt;br&gt;&quot;Схема расположения земельного участка на кадастровом плане территории&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="390" width="120" height="100" as="geometry" />
+          <mxGeometry x="1310" y="500" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-15" value="Выбор подразделения и завершение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="1310" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-18" target="TTNkWK5f1cw7pHRP-8Jn-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1380" y="320" as="targetPoint" />
+            <mxPoint x="1380" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1400" />
+              <mxPoint x="1400" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-18" value="Загрузка документа&lt;br&gt;&quot;Согласие залогодержателей исходного земельного участка&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="-40" width="120" height="100" as="geometry" />
+          <mxGeometry x="1110" y="70" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-21" target="TTNkWK5f1cw7pHRP-8Jn-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTNkWK5f1cw7pHRP-8Jn-21" value="Загрузка документа&lt;br&gt;&quot;Согласие землепользователей на раздел земельного участка&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="260" width="120" height="90" as="geometry" />
+          <mxGeometry x="910" y="390" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-24" target="TTNkWK5f1cw7pHRP-8Jn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-24" value="Загрузка документа&lt;br&gt;&quot;Правоустанавливающие документы на земельный участок&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="70" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-29" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-27" target="TTNkWK5f1cw7pHRP-8Jn-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-31" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-27" target="TTNkWK5f1cw7pHRP-8Jn-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-27" value="Право на земельный участок зарегистрировано в ЕГРН?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="395" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TTNkWK5f1cw7pHRP-8Jn-28" target="TTNkWK5f1cw7pHRP-8Jn-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-28" value="Загрузка документа&lt;br&gt;&quot;Правоустанавливающие документы на земельный участок&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="385" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TTNkWK5f1cw7pHRP-8Jn-30" value="Сколько землепользователей у исходного земельного участка?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
