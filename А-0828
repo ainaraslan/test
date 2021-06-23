@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T12:06:51.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6L8njmFvSkkBj7EGQVPI" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T12:10:04.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Dlcidl0MqdqzETX4ZOOZ" version="14.8.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,6 +260,100 @@
           <mxGeometry x="690" y="270" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1cfzA_tQtMEv9uI0CLUc-6" value="Выбор варианта услуги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_I-R5amHAYvc3hLx0tzB-1">
+          <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ввод данных ИП" id="Dt6tki09QV4tfGdDgLPI">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-0" />
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-1" parent="Fe_9lNBMNWlFRqpiUy3K-0" />
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-3" target="Fe_9lNBMNWlFRqpiUy3K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-3" value="Ввод ФИО, ДР, паспорта&lt;br&gt;Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-5" target="Fe_9lNBMNWlFRqpiUy3K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-5" value="Ввод моб. тел. Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-7" target="Fe_9lNBMNWlFRqpiUy3K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-7" value="Ввод эл. почты&lt;br&gt;Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-9" target="Fe_9lNBMNWlFRqpiUy3K-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-9" value="Ввод &quot;Полное наименование&quot;, ОГРНИП, ИНН Заявителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-11" target="Fe_9lNBMNWlFRqpiUy3K-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-11" value="Ввод данных ДУЛ Заявителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="720" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Fe_9lNBMNWlFRqpiUy3K-1" source="Fe_9lNBMNWlFRqpiUy3K-13" target="Fe_9lNBMNWlFRqpiUy3K-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-13" value="Загрузка документа&lt;br&gt;&quot;Документ, подтверждающий полномочия представителя на подачу заявления от имени индивидуального предпринимателя&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="690" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe_9lNBMNWlFRqpiUy3K-14" value="Выбор варианта услуги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Fe_9lNBMNWlFRqpiUy3K-1">
+          <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ввод данных ЮЛ" id="LXts9J01bFZnKO-njim4">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-0" />
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-1" parent="ZKyaUbPRpgWNctsydwSF-0" />
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-3" target="ZKyaUbPRpgWNctsydwSF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-3" value="Ввод ФИО, ДР, паспорта&lt;br&gt;Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-5" target="ZKyaUbPRpgWNctsydwSF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-5" value="Ввод моб. тел. Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-7" target="ZKyaUbPRpgWNctsydwSF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-7" value="Ввод эл. почты&lt;br&gt;Представителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-9" target="ZKyaUbPRpgWNctsydwSF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-9" value="Ввод &quot;Полное наименование&quot;, ОГРН, ИНН Заявителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-11" target="ZKyaUbPRpgWNctsydwSF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-11" value="Ввод данных ДУЛ Заявителя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="720" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZKyaUbPRpgWNctsydwSF-1" source="ZKyaUbPRpgWNctsydwSF-13" target="ZKyaUbPRpgWNctsydwSF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-13" value="Загрузка документа&lt;br&gt;&quot;Документ, подтверждающий полномочия представителя на подачу заявления от имени юридического лица&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
+          <mxGeometry x="690" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKyaUbPRpgWNctsydwSF-14" value="Выбор варианта услуги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZKyaUbPRpgWNctsydwSF-1">
           <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
