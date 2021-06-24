@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T15:01:59.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="1-dkn-FEt_TqW4WoNabw" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T15:04:06.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lux56av0B6UttMgDj36E" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,14 @@
         <mxCell id="45E79eTtIM7WgQHQwF2O-6" value="Какие сведения необходимо получить?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1125" y="330" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="45E79eTtIM7WgQHQwF2O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-12" target="45E79eTtIM7WgQHQwF2O-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45E79eTtIM7WgQHQwF2O-12" value="Ввод данных&lt;br&gt;&quot;Сведения о стаже работы&quot;&lt;br&gt;Поля:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;Дата начала (дата)&lt;/li&gt;&lt;li&gt;Дата окончания (дата)&lt;/li&gt;&lt;li&gt;Полное наименование организации в период работы&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="320" width="200" height="100" as="geometry" />
+          <mxGeometry x="1360" y="300" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="45E79eTtIM7WgQHQwF2O-13" value="Выберите вид запрашиваемого документа:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная выписка&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная копия&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная справка&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Информационное письмо&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="480" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
