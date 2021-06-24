@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T15:04:06.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lux56av0B6UttMgDj36E" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T15:05:51.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AzYln0Hj-lBvcOQzoZ4j" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,14 +62,24 @@
             <mxPoint x="1320" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45E79eTtIM7WgQHQwF2O-10" value="Сведения о размере &lt;br&gt;заработной платы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980" y="370" as="targetPoint" />
+        <mxCell id="45E79eTtIM7WgQHQwF2O-10" value="Сведения о размере &lt;br&gt;заработной платы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-6" target="45E79eTtIM7WgQHQwF2O-12">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="1050" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="370" />
+              <mxPoint x="1040" y="310" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45E79eTtIM7WgQHQwF2O-11" value="Сведения о&lt;br&gt;стаже работы о размере&lt;br&gt;заработной платы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="45E79eTtIM7WgQHQwF2O-11" value="Сведения о&lt;br&gt;стаже работы о размере&lt;br&gt;заработной платы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-6" target="45E79eTtIM7WgQHQwF2O-12">
+          <mxGeometry x="-0.0811" relative="1" as="geometry">
             <mxPoint x="1175" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="410" />
+              <mxPoint x="1280" y="410" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45E79eTtIM7WgQHQwF2O-6" value="Какие сведения необходимо получить?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -81,8 +91,14 @@
         <mxCell id="45E79eTtIM7WgQHQwF2O-12" value="Ввод данных&lt;br&gt;&quot;Сведения о стаже работы&quot;&lt;br&gt;Поля:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;Дата начала (дата)&lt;/li&gt;&lt;li&gt;Дата окончания (дата)&lt;/li&gt;&lt;li&gt;Полное наименование организации в период работы&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="300" width="200" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="45E79eTtIM7WgQHQwF2O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="45E79eTtIM7WgQHQwF2O-13" target="45E79eTtIM7WgQHQwF2O-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45E79eTtIM7WgQHQwF2O-13" value="Выберите вид запрашиваемого документа:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная выписка&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная копия&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Архивная справка&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Информационное письмо&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="480" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="45E79eTtIM7WgQHQwF2O-15" value="Выбор подразделения и завершение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1400" y="650" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
