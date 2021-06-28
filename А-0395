@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T07:45:22.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="XtvqEz_7LNQIvCW4RQkr" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T07:45:50.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SNiIwY7_TgtPRVk9MnSx" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -371,7 +371,7 @@
         <mxCell id="AKZau5EvF7W-zQ4bKuf_-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKZau5EvF7W-zQ4bKuf_-129" target="AKZau5EvF7W-zQ4bKuf_-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2045" y="680" />
+              <mxPoint x="1940" y="680" />
               <mxPoint x="1180" y="680" />
               <mxPoint x="1180" y="340" />
               <mxPoint x="760" y="340" />
@@ -391,7 +391,7 @@
           <mxGeometry x="705" y="65" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AKZau5EvF7W-zQ4bKuf_-138" value="Нашел схему внутри ОЦС в виде прикрепленного пдф, судя по ней идет по этой стрелке, к вопросу об браке..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1890" y="640" width="130" height="90" as="geometry" />
+          <mxGeometry x="1800" y="650" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
