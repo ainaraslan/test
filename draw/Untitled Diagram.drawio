@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T15:06:32.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="3tR_eVw6BB1mCX8YFOCk" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T06:05:00.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="baC22MiZ-EXbVPwWt7Dt" version="14.8.2" type="github">
   <diagram id="Lerm4SlKwIWbFK3JSJiu" name="Page-1">
     <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -88,6 +88,18 @@
         </mxCell>
         <mxCell id="ZxN3DWVEo9xitp-DFpEb-20" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;API&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxN3DWVEo9xitp-DFpEb-27" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Очередь 1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxN3DWVEo9xitp-DFpEb-29" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Очередь 2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxN3DWVEo9xitp-DFpEb-30" value="Сообщение 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="690" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxN3DWVEo9xitp-DFpEb-31" value="Тело сообщения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;" vertex="1" parent="ZxN3DWVEo9xitp-DFpEb-30">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
