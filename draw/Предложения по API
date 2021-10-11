@@ -1,23 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T14:18:04.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="V43kdfNoqtVYP3TNKk0g" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T14:22:58.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="BacVJlAUOPwj0vqHUgdg" version="15.4.3" type="github">
   <diagram id="q_6V_BQP1XtxYLzaZPHr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-1" target="TcnWOFmXvVaZUM9we3NH-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-1" value="Виджет для отображения промежуточных результатов на подпись заявителю (договор, соглашение и т.п.)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.632;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-3" target="TcnWOFmXvVaZUM9we3NH-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-3" value="Виджет для загрузки&amp;nbsp; подписанных промежуточных результатов." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.105;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-5" target="TcnWOFmXvVaZUM9we3NH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -36,22 +22,11 @@
         <mxCell id="TcnWOFmXvVaZUM9we3NH-7" value="Начало обработки заявления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-8" target="TcnWOFmXvVaZUM9we3NH-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-8" value="Подписание документов заявителем" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.106;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-9" target="TcnWOFmXvVaZUM9we3NH-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.632;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-9" target="TcnWOFmXvVaZUM9we3NH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.895;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-9" target="TcnWOFmXvVaZUM9we3NH-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="450" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-9" target="TcnWOFmXvVaZUM9we3NH-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-9" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="760" height="40" as="geometry" />
@@ -62,13 +37,29 @@
         <mxCell id="TcnWOFmXvVaZUM9we3NH-10" value="Отправка результирующих документов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-11" value="Виджет отображения результатов оказания услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="480" width="160" height="80" as="geometry" />
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-28" value="Внешняя система" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="1000" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-25" value="Внешняя система" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="1000" height="140" as="geometry">
-            <mxRectangle x="180" y="240" width="140" height="23" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-30" target="TcnWOFmXvVaZUM9we3NH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-30" value="Виджет для отображения промежуточных результатов на подпись заявителю (договор, соглашение и т.п.)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-31" value="Виджет для загрузки&amp;nbsp; подписанных промежуточных результатов." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TcnWOFmXvVaZUM9we3NH-33" target="TcnWOFmXvVaZUM9we3NH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-33" value="Подписание документов заявителем" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-34" value="Виджет отображения результатов оказания услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-36" value="ПП ГМУ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="760" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
