@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T14:10:50.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="OboNZqbZajjE2rfGdT4J" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T14:12:11.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="iLt-f0Rq8I-Y8gwMI5Jd" version="15.4.3" type="github">
   <diagram id="q_6V_BQP1XtxYLzaZPHr" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="TcnWOFmXvVaZUM9we3NH-5" value="Подготовка промежуточного документа и отправка в ПП ГМУ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TcnWOFmXvVaZUM9we3NH-6" value="Обработка документа и&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-6" value="Обработка документа и завершение услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-7" value="Начало обработки заявления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -23,7 +23,13 @@
           <mxGeometry x="600" y="480" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-9" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="560" height="40" as="geometry" />
+          <mxGeometry x="400" y="400" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-10" value="Отправка результирующих документов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcnWOFmXvVaZUM9we3NH-11" value="Виджет отображения результатов оказания услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
