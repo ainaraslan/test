@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T06:56:46.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="YwrGXO_83zmLvCiK7xph" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T06:57:39.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-Zood1MJ6Y-geMgEKplx" version="15.5.1" type="github">
   <diagram id="q_6V_BQP1XtxYLzaZPHr" name="Page-1">
-    <mxGraphModel dx="1886" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TcnWOFmXvVaZUM9we3NH-28" value="Внешняя система" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="180" y="240" width="800" height="140" as="geometry" />
+          <mxGeometry x="80" y="40" width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-41" value="Портал" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="180" y="540" width="800" height="140" as="geometry" />
+          <mxGeometry x="80" y="340" width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.105;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="TcnWOFmXvVaZUM9we3NH-5" target="TcnWOFmXvVaZUM9we3NH-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-5" value="Подготовка промежуточного документа и отправка в ПП ГМУ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="300" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TcnWOFmXvVaZUM9we3NH-6" target="TcnWOFmXvVaZUM9we3NH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-6" value="Обработка документа и завершение услуги" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="500" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TcnWOFmXvVaZUM9we3NH-7" target="TcnWOFmXvVaZUM9we3NH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-7" value="Начало обработки заявления" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TcnWOFmXvVaZUM9we3NH-9" target="TcnWOFmXvVaZUM9we3NH-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-9" value="API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="400" width="560" height="40" as="geometry" />
+          <mxGeometry x="300" y="200" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-10" value="Отправка результирующих документов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="700" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TcnWOFmXvVaZUM9we3NH-30" target="TcnWOFmXvVaZUM9we3NH-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-30" value="Виджет для отображения промежуточных результатов на подпись заявителю (договор, соглашение и т.п.)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="580" width="160" height="80" as="geometry" />
+          <mxGeometry x="300" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-31" value="Виджет для загрузки&amp;nbsp; подписанных промежуточных результатов." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="580" width="160" height="80" as="geometry" />
+          <mxGeometry x="500" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-33" value="Подписание документов заявителем" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="700" width="160" height="80" as="geometry" />
+          <mxGeometry x="300" y="500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-34" value="Виджет отображения результатов оказания услуги" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="580" width="160" height="80" as="geometry" />
+          <mxGeometry x="700" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcnWOFmXvVaZUM9we3NH-36" value="ПП ГМУ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="480" width="560" height="40" as="geometry" />
+          <mxGeometry x="300" y="280" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
