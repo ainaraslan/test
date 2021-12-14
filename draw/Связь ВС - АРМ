@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T11:35:05.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="WL48qO-imdEZkRNGVmNH" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:36:47.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="6pmi1ztWlR3d2DbK2Rah" version="15.6.0" type="github">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
-    <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-5" value="RecipientPersonalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="140" height="20" as="geometry" />
+          <mxGeometry x="160" y="360" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-6">
           <mxGeometry relative="1" as="geometry">
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-6" value="VariantChoice" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-7">
           <mxGeometry relative="1" as="geometry">
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-7" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="240" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-8">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-8" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-9">
           <mxGeometry relative="1" as="geometry">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-9" value="Прочие поля ВС" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="100" height="20" as="geometry" />
+          <mxGeometry x="160" y="480" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-10">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-10" value="MethodGettingResults" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="500" width="120" height="20" as="geometry" />
+          <mxGeometry x="160" y="540" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-32" value="Documents" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="600" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
