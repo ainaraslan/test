@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T11:42:07.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="DjP9NV36BABHPU80vLdg" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:53:07.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Qg-F83wRIrTywwn8gS8V" version="15.6.0" type="github">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
-    <mxGraphModel dx="331" dy="177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-1" value="CompetentOrganization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="140" height="20" as="geometry" />
+          <mxGeometry x="160" y="540" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-2">
           <mxGeometry relative="1" as="geometry">
@@ -20,13 +20,8 @@
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-2" value="requestType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-5" value="RecipientPersonalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="140" height="20" as="geometry" />
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-5" value="BusinessmanData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-6">
           <mxGeometry relative="1" as="geometry">
@@ -58,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-9" value="Прочие поля ВС" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="100" height="20" as="geometry" />
+          <mxGeometry x="160" y="600" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-10">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-10" value="MethodGettingResults" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="120" height="20" as="geometry" />
+          <mxGeometry x="160" y="660" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,34 +75,88 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-32" value="Documents" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="720" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="420" width="20" height="20" as="geometry" />
+          <mxGeometry x="300" y="540" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="20" height="20" as="geometry" />
+          <mxGeometry x="460" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="20" height="20" as="geometry" />
+          <mxGeometry x="240" y="720" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="540" width="20" height="20" as="geometry" />
+          <mxGeometry x="280" y="660" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="480" width="20" height="20" as="geometry" />
+          <mxGeometry x="260" y="600" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-42" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Служебная информация&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-43" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Подуслуга&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-44" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Вариант предоставления услуги&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-45" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Данные&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-46" value="DeligateInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;dashed=1;fontFamily=Times New Roman;fontSize=7;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-51" value="RecipientPersonalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-53" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Данные&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-54" value="LegalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/plus-square-o-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-56" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Данные&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;dashed=1;fontFamily=Times New Roman;fontSize=7;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
