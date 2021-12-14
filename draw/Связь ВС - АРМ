@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T11:53:07.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Qg-F83wRIrTywwn8gS8V" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:53:38.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="35m9WlgAL2yyFCkKWKz3" version="15.6.0" type="github">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
     <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,6 +19,11 @@
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-2" value="requestType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0000000000001" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-5" value="BusinessmanData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="100" height="20" as="geometry" />
@@ -126,8 +131,18 @@
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0000000000001" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;dashed=1;fontFamily=Times New Roman;fontSize=7;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0000000000001" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-51" value="RecipientPersonalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="140" height="20" as="geometry" />
@@ -137,6 +152,11 @@
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-53" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Данные&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0000000000001" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-54" value="LegalData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="60" height="20" as="geometry" />
@@ -157,6 +177,12 @@
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;dashed=1;fontFamily=Times New Roman;fontSize=7;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-61" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
