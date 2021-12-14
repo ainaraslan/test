@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T11:54:56.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="kp0AoDtUGGIb4zmygQ8I" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:56:34.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="QMuTqXVGg2CxdVZtbiwY" version="15.6.0" type="github">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,11 @@
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZYD7tEsEb0dK1KbkPWb-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="490.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;dashed=1;fontFamily=Times New Roman;fontSize=7;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
         </mxCell>
@@ -183,6 +188,9 @@
             <mxPoint x="340" y="490" as="sourcePoint" />
             <mxPoint x="340" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;То же, что и выше, с приставкой &quot;Deligate&quot; (представитель)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
