@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T11:56:58.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="wixUWNToUVZolFWl3xQN" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:58:43.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="KkiBdFdX_CZeSNN8NTdd" version="15.6.0" type="github">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -194,6 +194,12 @@
         </mxCell>
         <mxCell id="3ZYD7tEsEb0dK1KbkPWb-68" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Категория заявителя&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-69" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Уполномоченная организация&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZYD7tEsEb0dK1KbkPWb-70" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Способ получения результата&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
