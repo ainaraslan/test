@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T14:58:47.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4fq57miQrW_WXV8XiiJO" version="15.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-15T15:03:24.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FcX_kOUYDtenamY_abri" version="15.6.0" type="github" pages="3">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -589,6 +589,9 @@
             <mxPoint x="820" y="140" as="sourcePoint" />
             <mxPoint x="920" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-20" value="По конечному варианту выбирается variantXsd (содержит id состава доп. полей из коллекции xsd). Доп. поля &quot;разворачиваются&quot; в&amp;nbsp;variantXsdData.&lt;br style=&quot;font-size: 14px;&quot;&gt;В случае, если у конечного варианта дерева нет доп. полей (зависит от методолога), то берется variantXsd выше уровнем." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry x="920" y="80" width="220" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
