@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T09:27:10.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="374EDhlM_RPrGfQ8eRAA" version="15.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-15T14:35:33.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="NwwgwUmpXQPbAjMbeQbc" version="15.6.0" type="github" pages="3">
   <diagram id="No9dSfG0qKmfu0FEpq0Q" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="kk0A1RD-ieL03MK3hKSo">
-    <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="X0h0z5QEGI5UbwZTrNGd-0" />
         <mxCell id="X0h0z5QEGI5UbwZTrNGd-1" parent="X0h0z5QEGI5UbwZTrNGd-0" />
@@ -521,6 +521,50 @@
         </mxCell>
         <mxCell id="X0h0z5QEGI5UbwZTrNGd-55" value="&lt;font style=&quot;line-height: 1 ; font-size: 7px&quot; face=&quot;Times New Roman&quot;&gt;Сведения о вложениях&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=2;" vertex="1" parent="X0h0z5QEGI5UbwZTrNGd-1">
           <mxGeometry x="160" y="740" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oJvbAzjeP5ePX27O90h3" name="Page-3">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-0" />
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-1" parent="Z56PFDOrt6BTUkre7_oq-0" />
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-7" value="" style="group" vertex="1" connectable="0" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry x="40" y="40" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;align=center;verticalAlign=middle;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-7">
+          <mxGeometry width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-3" value="&amp;lt;KP_A&amp;gt;1&amp;lt;KP_A&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-7">
+          <mxGeometry x="60" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-4" value="&amp;lt;KP_B&amp;gt;2&amp;lt;KP_B&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-7">
+          <mxGeometry x="80" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-5" value="&amp;lt;KP_C&amp;gt;1&amp;lt;KP_C&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-7">
+          <mxGeometry x="190" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-6" value="&amp;lt;Goal&amp;gt;1&amp;lt;Goal&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-7">
+          <mxGeometry x="150" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="159.71" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-9" value="Нужно перебрать все комбинации и вариантов подобрать путь, куда входит наибольшее количество KP_x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry x="480" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="159.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z56PFDOrt6BTUkre7_oq-11" value="&lt;ul&gt;&lt;li&gt;Goal_1&lt;/li&gt;&lt;ul&gt;&lt;li&gt;KP_A_1&lt;/li&gt;&lt;ul&gt;&lt;li&gt;KP_B_2&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;KP_A_2&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Goal_2&lt;/li&gt;&lt;ul&gt;&lt;li&gt;KP_B_1&lt;/li&gt;&lt;ul&gt;&lt;li&gt;KP_C_2&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;KP_C_1 - доп. поля" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="Z56PFDOrt6BTUkre7_oq-1">
+          <mxGeometry x="680" y="80" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
